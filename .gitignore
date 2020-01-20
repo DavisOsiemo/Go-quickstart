@@ -1,0 +1,20 @@
+*~
+/.idea
+*.iml
+out/
+# Compile results
+**/target
+target/**
+project/project/**
+project/target/**
+*pyc
+core/target/**
+web/target/*
+order/target/*
+*/target/*
+# Rando’s
+todo
+.DS_Store
+.ensime
+.ensime_cache
+
